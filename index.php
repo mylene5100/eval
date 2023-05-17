@@ -20,7 +20,7 @@
     </div>
     <div class="form-group">
         <label for="exampleInputPassword1">Email</label>
-        <input type="email" class="form-control" name="email" id="exampleInputPassword1" placeholder="Entrer email">
+        <input type="email" class="form-control" name="emailgi" id="exampleInputPassword1" placeholder="Entrer email">
     </div>
     <button type="submit" class="btn btn-primary">Envoyer</button>
 </form>
